@@ -17,6 +17,8 @@ The goal of this project was to design a clean and user-friendly contact form th
 ## Design File
 -
  – the exported contact form design.
+ ![Contact Form](UI_1.png)
+
 
 ## Figma Link (Optional)
 You can also view the original design in Figma: [Figma Project Link]((https://www.figma.com/design/WsLT4NqNh90MRytl9uWLRf/UI-1?node-id=0-1&t=BPO0J1OlYQoQ3oG3-1))
